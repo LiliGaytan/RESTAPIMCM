@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Oracle
+Created-By: Oracle
+Specification-Title: mcmws-lib
+Specification-Version: 1.0
+Implementation-Title: Custom SDK WAR file for Billing Care API REST
+Implementation-Version: 1.0
+Implementation-Vendor: Oracle
+Extension-Name: mcmws-lib
+Custom-LibraryName: mcmws-lib
